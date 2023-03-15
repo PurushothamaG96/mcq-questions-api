@@ -1,0 +1,40 @@
+.App {
+ width: 100vw;
+ height: 100vh;
+ background-color: #82d4ff;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.main-container{
+  background-color: #3b4964;
+  display: flex;
+  padding: 1rem;
+  border-radius: 1rem;
+  color: aliceblue;
+}
+.right{
+  display: flex;
+  flex-direction: column;
+}
+.right button{
+  padding: 1rem;
+  background-color: #4b6291;
+  border: 3px solid #2f6a8a;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+  color: white;
+  font-size: larger;
+  cursor: pointer;
+}
+.sub-container{
+  width: 400px;
+}
+.result{
+  width: 600px;
+  padding: 3rem;
+  text-align: center;
+}
+
+
+
