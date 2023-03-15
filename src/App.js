@@ -8,7 +8,7 @@ function App() {
   const [score, setScore] = useState(0)
   let questionArr = [
     {
-      question:"Which one is the capital the capital of India",
+      question:"Which one is the capital of India",
       option:["Bengaluru", "Hyderabadh", "Mumbai", "Delhi"],
       answer:"Delhi"
     },
